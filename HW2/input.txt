@@ -1,0 +1,5 @@
+K.Weng,Chinese,5,Math,5,English,5
+T.Dixon,Physics,4,Chemistry,3,Biology,2
+J.Chen,Science,3,Math,4,English,5
+M.Li,Chinese,3,Physics,1,Chemistry,5
+L.Zhang,Chinese,5,Math,4,English,3,Science,4,Physics,2,Chemistry,3
